@@ -1,0 +1,11 @@
+Category.asp?category_id= & intext:credit card
+Category.cfm?category_id=
+category.asp?cid=
+category.cfm?cid=
+category.asp?cat=
+category.cfm?cat=
+category.asp?id=
+index.cfm?pageid=
+category.asp?catid=
+Category.asp?c=
+Category.cfm?c=

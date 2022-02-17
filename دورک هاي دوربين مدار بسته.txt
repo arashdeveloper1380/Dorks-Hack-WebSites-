@@ -1,0 +1,40 @@
+inurl:axiscam.net intitle:Camera
+inurl:control/userimage.html
+inurl:"video.cgi?resolution="
+inurl:cgi-bin/push.html
+intitle:”Android Webcam Server” inurl:”8080?
+inurl:/Aview.htm
+site:.com inurl:control/userimage.html
+site:.org inurl:control/userimage.html
+site:.net inurl:control/userimage.html
+intitle:”Live View / – AXIS 206M”
+inurl:”view/viewer_index.shtml”
+inurl:”ViewerFrame?Mode=”
+inurl:”axis-cgi/mjpg”
+“Powered by WebcamXP” “Pro|Broadcast”
+camera linksys inurl:LvAppl
+“Display Cameras” intitle:”Express6 Live Image”
+intitle:”Active Webcam Page”
+intitle:”Evocam” inurl:”Webcam.html”
+intitle:”Live View / – AXIS”
+intitle:”My WebcamXP Server!” inurl:”8080?
+intitle:”Toshiba Network Camera – User Login”
+intitle:”Live View / – AXIS” | inurl:view/view.shtml
+intitle:”WJ-NT104 Main Page”
+intitle:snc-rz30 inurl:home/
+inurl:home/homej.html
+indexFrame.html AXIS
+inurl:view/ctl.shtml
+inurl:AXIS-cgi/mjpg/video.swf
+“Toshiba Network Camera – User Login”
+intitle:LiveApplet inurl:LvAppl
+inurl:appletvid.html
+cgistart?page=single
+Configuration "Pop-up Live Image"
+inurl:indexFrame.shtml "Axis Video Server"
+i-Catcher Console - Web Playback
+inurl:mjpg/video.cgi
+inurl:"video.cgi=" inurl:axis
+inurl:"view/indexFrame.shtml"
+inurl:"MultiCameraFrame?Mode="
+intext:"Powered by VisionGS Webcam"
